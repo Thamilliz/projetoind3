@@ -1,0 +1,62 @@
+
+    {
+        "id": 4,
+        "nome": "Smash Salada",
+        "descricao": "Pão Especial, Maionese da Casa, Hambúrguer prensado, Queijo Cheddar, Alface e Tomate.",
+        "preco": 14.5,
+        "categoria_id": 1
+    },
+    {
+        "id": 2,
+        "nome": "Burguer Cheddar com Bacon",
+        "descricao": "Pão liso ou Australiano, Maionese da Casa, Hambúrguer, Cheddar, Cebola caramelizada e Bacon crocante.",
+        "preco": 10.5,
+        "categoria_id": 1
+    },
+    {
+        "id": 3,
+        "nome": "Smash-Bacon",
+        "descricao": "Pão Especial, Maionese da Casa, Hambúrguer prensado, Queijo derretido e Bacon em tiras",
+        "preco": 12.5,
+        "categoria_id": 1
+    },
+    {
+        "nome": "brioche",
+        "descricao": "Hamburguer artesanal com cebola caramelizada, presento, maionese temperada e 1 fatia de bacon.",
+        "preco": 9.5,
+        "categoria_id": 1,
+        "id": 7 
+        
+    },
+    {
+        "nome": "cryspy",
+        "descricao": "carne 100% de peito de frango, temperada e empanada, maionese, alface americana e tomate.",
+        "preco": 10.5,
+        "categoria_id": 1,
+        "id": 7     
+        
+    },
+    {
+        "nome": "big burguer",
+        "descricao": "Dois hambúrgueres (100% carne bovina), alface americana, queijo cheddar, maionese especial, cebola, picles e pão com gergelim.",
+        "preco": 10.5,
+        "categoria_id": 1,
+        "id": 7     
+            
+
+    },
+    {
+        "id": 6,
+        "nome": "Coca cola 600ml",
+        "descricao": "",
+        "preco": 7.5,
+         "categoria_id": 2
+    },
+    {
+        "id": 5,
+        "nome": "Coca cola 350ml",
+        "descricao": "",
+        "preco": 5.5,
+        "categoria_id": 2
+    }
+]
